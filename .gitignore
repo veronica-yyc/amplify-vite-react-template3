@@ -28,3 +28,6 @@ keepers
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# user
+veronicainstructions.txt
